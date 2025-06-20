@@ -17,6 +17,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alan999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alan999" /></a><a href="https://saweria.co/Turu090" target="_blank">
-    <img src="https://img.shields.io/badge/Saweria-FA5C5C?style=for-the-badge&logo=saweria&logoColor=white" height="50" alt="saweria" />
+    <img src="[https://img.shields.io/badge/Saweria-FA5C5C?style=for-the-badge&logo=saweria&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyju5WodIJgr3Je0gme12brIrHICphK_ylfM4E6eoh1R8t16WgE-C4QcwwARzIQ30KmM&usqp=CAU)" height="50" alt="saweria" />
   </a></p><br><br>
 
