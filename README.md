@@ -17,3 +17,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alan999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/Turu090" /></a></p><br><br>
+<p align="left">
+  <a href="https://saweria.co/Turu090" target="_blank">
+    <img align="left" src="https://ik.imagekit.io/saweria/saweria-logo/saweria-logo-gradient.png" height="50" alt="Support on Saweria"/>
+  </a>
+</p>
