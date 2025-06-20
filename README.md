@@ -10,4 +10,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alan999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/Turu090" /></a><a href="https://saweria.co/Turu090 "> <img align="left" src="https://saweria-space.sgp1.cdn.digitaloceanspaces.com/prd/pp/031b96c3-7f68-4ade-b3dc-17ccd8af15a4-fd9452be-c24f-4599-a9d8-35d8468b5b90.jpg" height="50" width="210" alt="https://saweria.co/Turu090" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/alan999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/Turu090" /></a></p><br><br>
