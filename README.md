@@ -6,7 +6,7 @@
   <a href="https://www.tiktok.com/@gabutd0_0?_t=ZS-8xMu5ohAeXK&_r=1" target="_blank">
     <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="30"/>
   </a> 
-  <a href="https://wa.me/628980668931" target="_blank">
+  <a href="https://wa.me/6288980668931" target="_blank">
     <img align="center" src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" height="30"/>
   </a> 
 </p> 
